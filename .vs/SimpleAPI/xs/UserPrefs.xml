@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{F9226157-0406-482E-AA6B-95C47075DD31}|https">
-  <MonoDevelop.Ide.ItemProperties.SimpleAPI FirstBuild="True" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F9226157-0406-482E-AA6B-95C47075DD31}|https">
+  <MonoDevelop.Ide.ItemProperties.SimpleAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>

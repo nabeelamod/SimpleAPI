@@ -26,6 +26,7 @@ namespace SimpleAPI.Controllers
                 return BadRequest("Tags parameter is required.");
             }
 
+
             var tagList = tags.Split(',');
 
             var httpClient = _httpClientFactory.CreateClient();
